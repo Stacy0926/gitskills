@@ -1,3 +1,5 @@
 hello,about  the branch, I want to create another branch named stace.
 
 maybe it is very difficult to learn something ,but I can acquire a lot.
+
+creating a new branch is quick and simple.
